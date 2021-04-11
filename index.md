@@ -1,8 +1,7 @@
-## Welcome to GitHub Pages
+## Welcome to my homepage.
 
-You can use the [editor on GitHub](https://github.com/Swarali-glitch/swaralipatil.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I am an undergraduate student in Physics at the Indian Institute of Science Education and Research, Thiruvananthapuram. I am currently working on a project in cosmology.
 
 ### Markdown
 
