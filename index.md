@@ -1,5 +1,4 @@
 ## Swarali Patil
-### Hello!
 ### Welcome to my homepage.
 
 **I am a graduate student and teaching assistant in the Department of Physics and Astronomy at the West Virginia University, USA.**
