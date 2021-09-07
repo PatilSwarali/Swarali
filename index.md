@@ -14,4 +14,4 @@
 - The cosmic microwave background  
 - Star forming activities in galaxies
 
-**Apart from this, I like singing, cooking and gardening.**
+**When not working, I enjoy singing, gardening and taking long walks.**
