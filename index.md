@@ -5,11 +5,11 @@
 **I am currently a Ph.D. student and teaching assistant in the Department of Physics and Astronomy at the West Virginia University, USA.**
 
 
-##**I got my masters in Physics from the Indian Institute of Science Education and Research, Thiruvananthapuram. For my master's thesis, I tried to model the effect of Weak lensing on the Cosmic Microwave Background radiation. Specifically, on the polarization parts of the CMB.**
+**I did my integrated masters in Physics from the Indian Institute of Science Education and Research, Thiruvananthapuram. For my master's thesis, I computatioanally calculated the effect of Weak lensing on the Cosmic Microwave Background radiation. Specifically, on the polarization parts of it.**
 
 
-**Research Interests:**
+**My research interests include but are not limited to:**
 
 - Neutron stars
 - The cosmic microwave background  
-- Star forming activities
+- Star forming activities in galaxies
