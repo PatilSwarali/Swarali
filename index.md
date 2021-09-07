@@ -2,13 +2,11 @@
 ### I'm Swarali.
 ### Welcome to my homepage.
 
-**I am a graduate student and teaching assistant in the Department of Physics and Astronomy at the West Virginia University, USA.**
+**I am currently a Ph.D. student and teaching assistant in the Department of Physics and Astronomy at the West Virginia University, USA.**
 
 
-**Education**
+**## I got my masters in Physics from the Indian Institute of Science Education and Research, Thiruvananthapuram. For my master's thesis, I tried to model the effect of Weak lensing on the Cosmic Microwave Background radiation. Specifically, on the polarization parts of the CMB.**
 
-BS-MS in Physics from the Indian Institute of Science Education and Research, Thiruvananthapuram.
-(Master's thesis: Weak lensing of the Cosmic Microwave Background)
 
 **Research Interests:**
 
