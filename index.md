@@ -2,15 +2,15 @@
 ### I'm Swarali.
 ### Welcome to my homepage.
 
-**I am currently a Ph.D. student and teaching assistant in the Department of Physics and Astronomy at the West Virginia University, USA.**
+**I am currently a Ph.D. student in the Department of Physics and Astronomy at the West Virginia University, USA.**
 
 
-**I did my integrated masters in Physics from the Indian Institute of Science Education and Research, Thiruvananthapuram. For my master's thesis, I computatioanally calculated the effect of Weak lensing on the Cosmic Microwave Background radiation. Specifically, on the polarization parts of it.**
+**I did my integrated masters in Physics from the Indian Institute of Science Education and Research, Thiruvananthapuram. For my master's thesis, I computatioanally calculated the effect of Weak lensing on the Cosmic Microwave Background radiation; specifically, on the polarization modes.**
 
 
 **My research interests include but are not limited to:**
 
-- Neutron stars
+- Neutron stars and transients
 - The cosmic microwave background  
 - Star forming activities in galaxies
 
