@@ -8,7 +8,8 @@
 
 
 **I did my integrated masters in Physics from the Indian Institute of Science Education and Research, Thiruvananthapuram. For my master's thesis, I computatioanally calculated the effect of Weak lensing on the Cosmic Microwave Background radiation; specifically, on the polarization modes.**
- <img src="EE_LOG.png" width="400">
+
+ <img src="EE_LOG.png" width="600">
 
 
 **My research interests include but are not limited to:**
