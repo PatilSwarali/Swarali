@@ -1,4 +1,4 @@
-![image](logo.png){:height="5%" width="5%"}
+![image](logo.png&s=20)
 
 ### Hello!
 ### I'm Swarali.
