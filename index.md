@@ -1,3 +1,5 @@
+![image](logo.png|=50x50)
+
 ### Hello!
 ### I'm Swarali.
 ### Welcome to my homepage.
@@ -15,4 +17,3 @@
 - Star forming activities in galaxies
 
 **When not working, I enjoy singing, gardening and taking long walks.**
-![image](logo.png)
