@@ -1,4 +1,4 @@
-![image](logo.png = 10x10)
+![image](logo.png){width=5}
 
 ### Hello!
 ### I'm Swarali.
