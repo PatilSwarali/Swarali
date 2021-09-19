@@ -20,25 +20,7 @@
 
 **When not working, I enjoy singing, gardening and taking long walks.**
 
-<html>
- <head>
-    <style>
-    {
-        box-sizing: border-box;
-    }
-    /* Set additional styling options for the columns*/
-    .column {
-    float: left;
-    width: 50%;
-    }
 
-    .row:after {
-    content: "";
-    display: table;
-    clear: both;
-    }
-    </style>
- </head>
  <body>
     <div class="row">
         <div class="column" style="background-color:#FFB695;">
@@ -51,4 +33,3 @@
         </div>
     </div>
  </body>
-</html>
