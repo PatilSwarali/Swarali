@@ -15,4 +15,4 @@
 - Star forming activities in galaxies
 
 **When not working, I enjoy singing, gardening and taking long walks.**
-![image](image.jpg)
+![image](swarali.jpg)
