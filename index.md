@@ -1,12 +1,12 @@
  <img src="logo.png" width="50" height="50">
----
+
 
 ### Hello!
 ### I'm Swarali.
 ### Welcome to my homepage.
 
 **I am currently a Ph.D. student in the Department of Physics and Astronomy at the West Virginia University, USA.**
-
+<hr>
 
 **I did my integrated masters in Physics from the Indian Institute of Science Education and Research, Thiruvananthapuram. For my master's thesis, I computatioanally calculated the effect of Weak lensing on the Cosmic Microwave Background radiation; specifically, on the polarization modes.**
 
