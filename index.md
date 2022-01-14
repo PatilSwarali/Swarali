@@ -1,7 +1,3 @@
- <img src="logo.png" width="50" height="50">
-<hr>
-
-
 ### Hello!
 ### I'm Swarali.
 ### Welcome to my homepage, it is under construction.
